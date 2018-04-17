@@ -2058,7 +2058,7 @@ fieldset[disabled]
 }
 
 .form-control:focus {
-  border: 1px solid #378C3F;
+  border: 1px solid #0080ff;
   -webkit-box-shadow: none;
   box-shadow: none;
   outline: 0 !important;
