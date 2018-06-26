@@ -1,5 +1,5 @@
 <div class="container">
-          <div class="h4 text-center mb-4 title">Habilidades profesionales</div>
+          <div class="h4 text-center mb-4 title">HABILIDADES PROFESIONALES </div>
           <div class="card" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
             <div class="card-body">
               <div class="row">

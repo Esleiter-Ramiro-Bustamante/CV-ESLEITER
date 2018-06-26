@@ -1,8 +1,10 @@
 <!DOCTYPE html>
-<html lang="es-MX">
+<html lang="es">
 
 <head>
+<link rel="icon"  type="image/png" href="images/favicon.png">
   <?php 
+  
    require 'plantilla/head.php';
   
   ?>
@@ -29,7 +31,7 @@
                   </a>
                 </div>
                 <div class="h2 title">ESLEITER RAMIRO BUSTAMANTE ATAXCA</div>
-                <p class="category text-white">PROGRAMADOR & DESARROLLADOR WEB</p>
+                <p class="h4 category text-white">PROGRAMADOR WEB EN PHP</p>
                 <a class="btn btn-info smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">CONTÁCTAME </a>
                 
               </div>
@@ -37,17 +39,13 @@
             <div class="section">
               <div class="container">
                 <div class="button-container">
-                  <a class="btn btn-danger btn-round btn-lg btn-icon" href="https://www.facebook.com/Yue.Esleiter" rel="tooltip" title="Sigueme en Facebook">
-                    <i class="fa fa-facebook"></i>
-                  </a>
+                  
 
 
-                  <a class="btn btn-danger btn-round btn-lg btn-icon" href="https://github.com/Esleiter-Ramiro-Bustamante" rel="tooltip" title="Sigueme en Github">
-                    <i class="fa fa-github"></i>
+                  <a class="btn btn-danger btn-round btn-lg btn-icon" href="https://github.com/Esleiter-Ramiro-Bustamante" rel="tooltip">
+                    <i class="fa fa-code"></i>
                   </a>
-                  <a class="btn btn-danger btn-round btn-lg btn-icon" href="https://plus.google.com/u/0/107084077012056086112" rel="tooltip" title="Sigueme en Google+">
-                    <i class="fa fa-google-plus"></i>
-                  </a>
+                  
                 </div>
               </div>
             </div>
@@ -60,40 +58,40 @@
             <div class="row">
               <div class="col-lg-6 col-md-12">
                 <div class="card-body">
-                  <div class="h4 mt-0 title">Acerca de mi</div>
-                  <p>Hola! Soy Esleiter. Programador y Desarrollador Web.</p>
-                  <p>Creative CV is a HTML resume template for professionals. Built with Bootstrap 4, Now UI Kit and FontAwesome,
-                    this modern and responsive design template is perfect to showcase your portfolio, skills and experience.
+                  <div class="h4 mt-0 title">ACERCA DE MI</div>
+                  <p>HOLA! SOY ESLEITER, PROGRAMADOR WEB EN PHP.</p>
+                  <p>
+
                     <a href="https://templateflip.com/templates/creative-cv/" target="_blank">Learn More</a>
                   </p>
                 </div>
               </div>
               <div class="col-lg-6 col-md-12">
                 <div class="card-body">
-                  <div class="h4 mt-0 title">Información Básica</div>
+                  <div class="h4 mt-0 title">INFORMACIÓN BÁSICA</div>
                   <div class="row">
                     <div class="col-sm-4">
-                      <strong class="text-uppercase">Edad:</strong>
+                      <strong class="text-uppercase">EDAD:</strong>
                     </div>
                     <div class="col-sm-8">25</div>
                   </div>
                   <div class="row mt-3">
                     <div class="col-sm-4">
-                      <strong class="text-uppercase">Email:</strong>
+                      <strong class="text-uppercase">EMAIL:</strong>
                     </div>
                     <div class="col-sm-8">esletutuns0307@gmail.com</div>
                   </div>
                   <div class="row mt-3">
                     <div class="col-sm-4">
-                      <strong class="text-uppercase">Telefono:</strong>
+                      <strong class="text-uppercase">TEL:</strong>
                     </div>
                     <div class="col-sm-8">+52 2941301061</div>
                   </div>
                   <div class="row mt-3">
                     <div class="col-sm-4">
-                      <strong class="text-uppercase">Dirección:</strong>
+                      <strong class="text-uppercase">DIRECCION:</strong>
                     </div>
-                    <div class="col-sm-8">San Andres Tuxtla,Veracruz</div>
+                    <div class="col-sm-8">SAN ANDRES TUXTLA,VERACRUZ</div>
                   </div>
 
                 </div>
@@ -254,30 +252,30 @@
       </div>
       <!--********************************************************************* -->
       
-      <!--
+
 <div class="section" id="reference">
   <div class="container cc-reference">
-    <div class="h4 mb-4 text-center title">References</div>
+    <div class="h4 mb-4 text-center title">FRASES </div>
     <div class="card" data-aos="zoom-in">
       <div class="carousel slide" id="cc-Indicators" data-ride="carousel">
         <ol class="carousel-indicators">
           <li class="active" data-target="#cc-Indicators" data-slide-to="0"></li>
           <li data-target="#cc-Indicators" data-slide-to="1"></li>
           <li data-target="#cc-Indicators" data-slide-to="2"></li>
+           <li data-target="#cc-Indicators" data-slide-to="3"></li>
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
             <div class="row">
               <div class="col-lg-2 col-md-3 cc-reference-header">
                 <img src="images/reference-image-1.jpg" alt="Image" />
-                <div class="h5 pt-2">Aiyana</div>
-                <p class="category">CEO / WEBM</p>
+                <div class="h5 pt-2">WHEEL</div>
+                <p class="category">CODE</p>
               </div>
               <div class="col-lg-10 col-md-9">
-                <p> Habitasse venenatis commodo tempor eleifend arcu sociis sollicitudin ante pulvinar ad, est porta cras erat
-                  ullamcorper volutpat metus duis platea convallis, tortor primis ac quisque etiam luctus nisl nullam fames.
-                  Ligula purus suscipit tempus nascetur curabitur donec nam ullamcorper, laoreet nullam mauris dui aptent
-                  facilisis neque elementum ac, risus semper felis parturient fringilla rhoncus eleifend.</p>
+                <p align="center"  style="font-family: 'Poiret One', cursive; font-size:35px;">
+                  "NO HAY QUE REINVENTAR LA RUEDA, SOLO MEJORARLA"
+                </p>
               </div>
             </div>
           </div>
@@ -285,14 +283,14 @@
             <div class="row">
               <div class="col-lg-2 col-md-3 cc-reference-header">
                 <img src="images/reference-image-2.jpg" alt="Image" />
-                <div class="h5 pt-2">Braiden</div>
-                <p class="category">CEO / Creativem</p>
+                <div class="h5 pt-2">FOREST</div>
+                <p class="category">SOLUTION</p>
               </div>
               <div class="col-lg-10 col-md-9">
-                <p> Habitasse venenatis commodo tempor eleifend arcu sociis sollicitudin ante pulvinar ad, est porta cras erat
-                  ullamcorper volutpat metus duis platea convallis, tortor primis ac quisque etiam luctus nisl nullam fames.
-                  Ligula purus suscipit tempus nascetur curabitur donec nam ullamcorper, laoreet nullam mauris dui aptent
-                  facilisis neque elementum ac, risus semper felis parturient fringilla rhoncus eleifend.</p>
+                 <p align="center"  style="font-family: 'Poiret One', cursive; font-size:35px;">
+                  "LOS ARBOLES NO TE DEJAN VER EL BOSQUE"
+                </p>
+
               </div>
             </div>
           </div>
@@ -300,23 +298,41 @@
             <div class="row">
               <div class="col-lg-2 col-md-3 cc-reference-header">
                 <img src="images/reference-image-3.jpg" alt="Image" />
-                <div class="h5 pt-2">Alexander</div>
-                <p class="category">CEO / Webnote</p>
+                <div class="h5 pt-2">HESSE</div>
+                <p class="category">DENTRO & FUERA</p>
               </div>
               <div class="col-lg-10 col-md-9">
-                <p> Habitasse venenatis commodo tempor eleifend arcu sociis sollicitudin ante pulvinar ad, est porta cras erat
-                  ullamcorper volutpat metus duis platea convallis, tortor primis ac quisque etiam luctus nisl nullam fames.
-                  Ligula purus suscipit tempus nascetur curabitur donec nam ullamcorper, laoreet nullam mauris dui aptent
-                  facilisis neque elementum ac, risus semper felis parturient fringilla rhoncus eleifend.</p>
+                <p align="center"  style="font-family: 'Poiret One', cursive; font-size:35px;">
+                  "NADA ESTÁ FUERA, NADA ESTÁ DENTRO; PUES TODO LO QUE ESTÁ FUERA ESTÁ DENTRO"
+                </p>
               </div>
             </div>
           </div>
+           <div class="carousel-item">
+            <div class="row">
+              <div class="col-lg-2 col-md-3 cc-reference-header">
+                <img src="images/reference-image-4.jpg" alt="Image" />
+                <div class="h5 pt-2">COELHO</div>
+                <p class="category">EL ALQUIMISTA</p>
+              </div>
+              <div class="col-lg-10 col-md-9">
+                <p align="center"  style="font-family: 'Poiret One', cursive; font-size:20px;">
+                  "SIEMPRE EXISTE EN EL MUNDO UNA PERSONA QUE ESPERA A OTRA, 
+                  YA SEA EN EL MEDIO DEL DESIERTO O EN MEDIO DE UNA GRAN CIUDAD. 
+                  Y CUANDO ESTAS PERSONAS SE CRUZAN Y SUS OJOS SE ENCUENTRAN, 
+                  TODO EL PASADO Y TODO EL FUTURO PIERDEN COMPLETAMENTE SU IMPORTANCIA Y 
+                  SÓLO EXISTE AQUEL MOMENTO."
+                </p>
+              </div>
+            </div>
+          </div>
+          
         </div>
       </div>
     </div>
   </div>
 </div>
--->
+
 
       <div class="section" id="contact">
       <?php 
