@@ -27,18 +27,22 @@
               <div class="content-center">
                 <div class="cc-profile-image">
                   <a href="">
-                    <img src="images/esleiter.jpg" alt="Image" />
+                    <img src="images/esleiter.jpg" alt="Image"
+                    data-aos="flip-left"
+     data-aos-easing="ease-out-cubic"
+     data-aos-duration="1000"
+                     />
                   </a>
                 </div>
-                <div class="h2 title">ESLEITER RAMIRO BUSTAMANTE ATAXCA</div>
-                <p class="h4 category text-white">PROGRAMADOR WEB EN PHP</p>
+                <div class="h2 title" data-aos="flip-left" data-aos-duration="1000">ESLEITER RAMIRO BUSTAMANTE ATAXCA</div>
+                <p class="h4 category text-white" data-aos="flip-left" data-aos-duration="1000">PROGRAMADOR WEB EN PHP</p>
                 <a class="btn btn-info smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">CONTÁCTAME </a>
                 
               </div>
             </div>
             <div class="section">
               <div class="container">
-                <div class="button-container">
+                <div class="button-container" data-aos="flip-left" data-aos-duration="1000">
                   
 
 
@@ -58,11 +62,20 @@
             <div class="row">
               <div class="col-lg-6 col-md-12">
                 <div class="card-body">
-                  <div class="h4 mt-0 title">ACERCA DE MI</div>
-                  <p>HOLA! SOY ESLEITER, PROGRAMADOR WEB EN PHP.</p>
+                  <div class="h4 mt-0 title"> <center>ACERCA DE MI</center></div>
+                   <p align="justify">HOLA! SOY <strong> ESLEITER RAMIRO</strong>, PROGRAMADOR WEB EN PHP.
+                  
+                  CONCLUÍ  LA CARRERA DE
+INGENIERÍA INFORMÁTICA CON LA ESPECIALIDAD DE TIC'S. SOY INTEGRANTE DEL GRUPO DE LABORATORIO DE SOFTWARE LIBRE
+(LABSOL) CON SEDE EN EL ESTADO DE VERACRUZ DEL MUNICIPIO DE SAN ANDRES TUXTLA EN EL INSTITUTO
+TECNOLÓGICO SUPERIOR DE SAN ANDRÉS TUXTLA. CUENTO CON 1 AÑO DE EXPERIENCIA EN LA PROGRAMACION DE SISTEMAS WEB.
+MI OBJETIVO PROFESIONAL ES USAR LAS HERRAMIENTAS DE DESARROLLO WEB PARA 
+LOS DIFERENTES REQUERIMIENTOS Y NECESIDADES QUE DEMANDAN LAS EMPRESAS.
+
+                  </p>
                   <p>
 
-                    <a href="https://templateflip.com/templates/creative-cv/" target="_blank">Learn More</a>
+                   
                   </p>
                 </div>
               </div>
@@ -118,23 +131,24 @@
       
       <div class="section" id="experience">
         <div class="container cc-experience">
-          <div class="h4 text-center mb-4 title">Work Experience</div>
+          <div class="h4 text-center mb-4 title">EXPERIENCIA LABORAL</div>
           <div class="card">
             <div class="row">
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-experience-header">
-                  <p>March 2016 - Present</p>
-                  <div class="h5">CreativeM</div>
+                  <p>MAYO-JULIO 2018 - PRESENTE</p>
+                  <div class="h5">OPLE VERACRUZ</div>
                 </div>
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
-                  <div class="h5">Front End Developer</div>
-                  <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique
-                    sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus
-                    quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur
-                    feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin
-                    dui.</p>
+                  <div class="h5">CAPTURISTA</div>
+                  <p align="justify">
+                  <strong>ORGANISMOS PÚBLICOS LOCALES ELECTORALES (OPLE)</strong> EN EL
+                  PROCESO ELECTORAL 2017-2018 GOBERNATURA Y DIPUTADOS & GRUPO PROISI
+                  EN SAN ANDRES TUXTLA DISTRITO 25 TRABAJO COMO CAPTURISTA EN EL 
+                  PROGRAMA DE RESULTADOS ELECTORALES PRELIMIMINARES (PREP).
+                  </p>
                 </div>
               </div>
             </div>
@@ -143,18 +157,24 @@
             <div class="row">
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-experience-header">
-                  <p>April 2014 - March 2016</p>
-                  <div class="h5">WebNote</div>
+                  <p>AGOSTO 2017 - ENERO 2018</p>
+                  <div class="h5"> RESIDENCIA PROFESIONAL LABSOL ZACATECAS</div>
                 </div>
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
-                  <div class="h5">Web Developer</div>
-                  <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique
-                    sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus
-                    quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur
-                    feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin
-                    dui.</p>
+                  <div class="h5">PROGRAMADOR WEB PHP</div>
+                   <p align="justify">
+                   CONCLUÍ LA RESIDENCIA PROFESIONAL EN EL CONSEJO ZACATECANO DE CIENCIA,
+                  TECNOLOGÍA E INNOVACIÓN (COZCYT) EN EL ESTADO DE ZACATECAS,
+                   EN EL PROYECTO QUE TRABAJE FUE EN <strong>EL SISTEMA DE GESTION ESCOLAR I-EDUCAR.</strong>
+                    I-EDUCAR ES DE ORIGEN BRASILEÑO Y EN LABSOL ZACATECAS SE LLEVO A CABO LA ACTUALIZACION
+                    PARA QUE TRABAJARA EN UBUNTU 14 LTS Y SGDB POSTGRESQL 9.3 Y SU TRADUCCION DE PORTUGUES A ESPAÑOL.
+
+                  
+
+
+                  </p>
                 </div>
               </div>
             </div>
@@ -163,18 +183,46 @@
             <div class="row">
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-experience-header">
-                  <p>April 2013 - February 2014</p>
-                  <div class="h5">WEBM</div>
+                  <p>SEPTIEMBRE 2016 - MARZO 2017</p>
+                  <div class="h5">SERVICIO SOCIAL EN EL ITSSAT LABSOL</div>
                 </div>
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
-                  <div class="h5">Intern</div>
-                  <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique
-                    sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus
-                    quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur
-                    feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin
-                    dui.</p>
+                  <div class="h5">PROGRAMADOR WEB PHP </div>
+                  <p align="justify">
+                    ENCARGADO DEL DESARROLLO DE UN SISTEMA DE CONTROL DE CURSOS DE CAPACITACION PARA EL INSTITUTO
+TECNOLÓGICO SUPERIOR DE SAN ANDRÉS TUXTLA, EL CUAL SE REALIZABA PRUEBA PARA EL FUNCIONAMIENTO EFICAZ DEL
+SISTEMA.
+
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="row">
+              <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body cc-experience-header">
+                  <p>JULIO 2011 - JULIO 2012</p>
+                  <div class="h5">CONAFE</div>
+                </div>
+              </div>
+              <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+                <div class="card-body">
+                  <div class="h5">INTRUCTOR COMUNITARIO</div>
+                   <p align="justify">
+                  TRABAJE EN EL <strong>CONSEJO NACIONAL DE FOMENTO EDUCATIVO</strong> MAS CONOCIDO COMO CONAFE EN EL CUAL
+                ENSEÑABA A LOS NIÑOS DE COMUNIDADES LEJANAS. EN EL PROGRAMA EDUCATIVO EN EL CUAL IMPARTIA 
+                CLASES FUE NIVEL PRIMARIA DESDE 1ro HASTA 6to GRADO,
+                ME ENCARGABA DE LAS NECESIDADES DE APRENDIZAJE DE LOS HABITANTES DE LAS
+COMUNIDADES RURALES Y CONSOLIDANDO ESPACIOS EDUCATIVOS.
+
+
+                  
+
+
+                  </p>
                 </div>
               </div>
             </div>
@@ -184,24 +232,20 @@
       <!--********************************************************************* -->
       <div class="section">
         <div class="container cc-education">
-          <div class="h4 text-center mb-4 title">Education</div>
+          <div class="h4 text-center mb-4 title">EDUCACIÓN  </div>
           <div class="card">
             <div class="row">
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-education-header">
-                  <p>2013 - 2015</p>
-                  <div class="h5">Master's Degree</div>
+                  <p>2013 - 2017</p>
+                  <div class="h5">LICENCIATURA</div>
                 </div>
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
-                  <div class="h5">Master of Information Technology</div>
-                  <p class="category">University of Computer Science</p>
-                  <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique
-                    sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus
-                    quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur
-                    feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin
-                    dui.</p>
+                  <div class="h5">INGENIERÍA INFORMÁTICA </div>
+                  <p class="category">INSTITUTO TECNOLÓGICO SUPERIOR DE SAN ANDRÉS TUXTLA  </p>
+                  <p></p>
                 </div>
               </div>
             </div>
@@ -210,23 +254,20 @@
             <div class="row">
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body cc-education-header">
-                  <p>2009 - 2013</p>
-                  <div class="h5">Bachelor's Degree</div>
+                  <p>2008 - 2011</p>
+                  <div class="h5">PROFESIONAL TÉCNICO EN BACHILLERATO</div>
                 </div>
               </div>
               <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
                 <div class="card-body">
-                  <div class="h5">Bachelor of Computer Science</div>
-                  <p class="category">University of Computer Science</p>
-                  <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique
-                    sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus
-                    quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur
-                    feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin
-                    dui.</p>
+                  <div class="h5">PTB-INFORMÁTICA</div>
+                  <p class="category">Plantel Conalep 201 San Andres Tuxtla</p>
+                  <p></p>
                 </div>
               </div>
             </div>
           </div>
+          <!-- 
           <div class="card">
             <div class="row">
               <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
@@ -248,6 +289,7 @@
               </div>
             </div>
           </div>
+          -->
         </div>
       </div>
       <!--********************************************************************* -->

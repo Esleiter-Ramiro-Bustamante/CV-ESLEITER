@@ -49,7 +49,7 @@
               <div class="row">
                 <div class="col-md-6">
                   <div class="progress-container progress-danger">
-                    <span class="progress-badge">Materialize</span>
+                    <span class="progress-badge">Materialize CSS</span>
                     <div class="progress">
                       <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar"
                         aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"></div>

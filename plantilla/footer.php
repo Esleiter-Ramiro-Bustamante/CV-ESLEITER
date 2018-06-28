@@ -1,4 +1,4 @@
-<div class="container text-center">
+<div class="container text-center" data-aos="zoom-in">
       <a class="btn btn-danger btn-round btn-lg btn-icon" href="https://www.facebook.com/Yue.Esleiter" target="_blank" rel="tooltip" title="Sigueme en Facebook">
                     <i class="fa fa-facebook"></i>
                   </a>
@@ -17,10 +17,12 @@
     </div>
 <br> 
  <center>
-      <img src="images/panda.png" width="100">
+      <img src="images/panda.png" width="100" data-aos="zoom-in">
     </center>
-    <div class="h4 title text-center text-white">
-     ESLEITER RAMIRO</div>
+    <div class="h4 title text-center text-white"  >
+    <strong >ESLEITER RAMIRO</strong>
+    
+     </div>
     <div class="text-center text-muted ">
       <p class="text-white">
          Copyright (c) 2018 - 2019.
