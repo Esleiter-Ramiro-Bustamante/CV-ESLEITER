@@ -30,8 +30,8 @@
                     <span class="progress-badge">JavaScript</span>
                     <div class="progress">
                       <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar"
-                        aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"></div>
-                      <span class="progress-value">50%</span>
+                        aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 40%;"></div>
+                      <span class="progress-value">40%</span>
                     </div>
                   </div>
                 </div>
@@ -96,8 +96,8 @@
                     <span class="progress-badge">PHP 5</span>
                     <div class="progress">
                       <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar"
-                        aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div>
-                      <span class="progress-value">80%</span>
+                        aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"></div>
+                      <span class="progress-value">50%</span>
                     </div>
                   </div>
                 </div>
@@ -106,8 +106,8 @@
                     <span class="progress-badge">PHP 7</span>
                     <div class="progress">
                       <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar"
-                        aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 40%;"></div>
-                      <span class="progress-value">40%</span>
+                        aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 30%;"></div>
+                      <span class="progress-value">30%</span>
                     </div>
                   </div>
                 </div>

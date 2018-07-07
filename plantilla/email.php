@@ -8,7 +8,7 @@
                     <div class="row">
                       <div class="col-md-6">
                         <div class="card-body">
-                          <form action="https://formspree.io/your@email.com" method="POST">
+                          <form action="https://formspree.io/esletutuns0307@gmail.com" method="POST">
                             <div class="p pb-3">
                               <strong>NO DUDE EN PONER EN CONTACTO CONMIGO
                               </strong>

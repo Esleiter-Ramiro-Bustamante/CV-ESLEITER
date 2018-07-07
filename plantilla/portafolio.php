@@ -4,12 +4,14 @@
               <div class="h4 text-center mb-4 title">CURSOS</div>
               <div class="nav-align-center">
                 <ul class="nav nav-pills nav-pills-danger" role="tablist">
+                  
                   <li class="nav-item">
                     <a class="nav-link active" data-toggle="tab" href="#web-development" role="tablist"
                     data-aos="flip-left" data-aos-duration="1000">
                       <i class="fa fa-laptop" aria-hidden="true"></i>
                     </a>
                   </li>
+                  
                   <li class="nav-item">
                     <a class="nav-link" data-toggle="tab" href="#graphic-design" role="tablist" data-aos="flip-left" data-aos-duration="1000"  rel="tooltip" title="Cursos SoloLearn">
                       <i class="fa fa-certificate" aria-hidden="true"></i>
@@ -20,7 +22,7 @@
                       <i class="fa fa-underline" aria-hidden="true"></i>
                     </a>
                   </li>
-                    <!--****************BORRADOR
+                    <!--****************BORRADOR PARA AGREGAR UN BOTON
                   <li class="nav-item">
                     <a class="nav-link" data-toggle="tab" href="#Photography1" role="tablist" data-aos="flip-left" data-aos-duration="1000" rel="tooltip" title="Curso Udemy">
                       <i class="fa fa-underline" aria-hidden="true"></i>
@@ -35,6 +37,7 @@
             <div class="tab-pane active" id="web-development">
               <div class="ml-auto mr-auto">
                 <div class="row">
+                    
                   <div class="col-md-6">
                     <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
                       <a href="#web-development">
@@ -83,6 +86,7 @@
                       </a>
                     </div>
                   </div>
+                  
                 </div>
               </div>
             </div>
@@ -205,10 +209,75 @@
                       </a>
                     </div>
                   </div>
+
+                    
+                   <div class="col-md-6">
+                    <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
+                      <a href="#UdemyJS">
+                        <figure class="cc-effect">
+                          <img src="images/photography-5.jpg" alt="Image" />
+                          <figcaption>
+                           <div class="h4">JAVASCRIPT</div>
+                            <p><i class=" fa fa-code fa-3x" ></i>
+                               
+                            </p>
+                          </figcaption>
+                        </figure>
+                      </a>
+                    </div>
+                    <!--
+                    <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
+                      <a href="#UdemyPhp&Mysql">
+                        <figure class="cc-effect">
+                          <img src="images/photography-3.jpg" alt="Image" />
+                          <figcaption>
+                            <div class="h4">PHP & MYSQL</div>
+                            <p><i class=" fa fa-code fa-3x" ></i>
+                               
+                            <i class="fa fa-database fa-3x" aria-hidden="true"></i></p>
+                          </figcaption>
+                        </figure>
+                      </a>
+                    </div>
+                    -->
+                  </div>
+
+                   <div class="col-md-6">
+                    <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
+                      <a href="#UdemyMysql">
+                        <figure class="cc-effect">
+                          <img src="images/photography-6.jpg" alt="Image" />
+                          <figcaption>
+                           <div class="h4">MYSQL</div>
+                            <p>
+                               
+                            <i class="fa fa-database fa-3x" aria-hidden="true"></i></p>
+                          </figcaption>
+                        </figure>
+                      </a>
+                    </div>
+                    <!--
+                    <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
+                      <a href="#UdemyPhp&Mysql">
+                        <figure class="cc-effect">
+                          <img src="images/photography-3.jpg" alt="Image" />
+                          <figcaption>
+                            <div class="h4">PHP & MYSQL</div>
+                            <p><i class=" fa fa-code fa-3x" ></i>
+                               
+                            <i class="fa fa-database fa-3x" aria-hidden="true"></i></p>
+                          </figcaption>
+                        </figure>
+                      </a>
+                    </div>
+                    -->
+                  </div>
+
+
                 </div>
               </div>
             </div>
-            <!--****************BORRADOR
+            <!--****************BORRADOR PARA AGREGAR OTRO BOTON
              <div class="tab-pane" id="Photography1" role="tabpanel">
               <div class="ml-auto mr-auto">
                 <div class="row">

@@ -34,8 +34,8 @@
                      />
                   </a>
                 </div>
-                <div class="h2 title" data-aos="flip-left" data-aos-duration="1000">ESLEITER RAMIRO BUSTAMANTE ATAXCA</div>
-                <p class="h4 category text-white" data-aos="flip-left" data-aos-duration="1000">PROGRAMADOR WEB EN PHP</p>
+                <div class="h3 title" data-aos="flip-left" data-aos-duration="1000">ESLEITER RAMIRO BUSTAMANTE ATAXCA</div>
+                <p class="h5 category text-white" data-aos="flip-left" data-aos-duration="1000">PROGRAMADOR WEB EN PHP</p>
                 <a class="btn btn-info smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">CONTÁCTAME </a>
                 
               </div>

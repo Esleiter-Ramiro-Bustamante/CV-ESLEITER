@@ -20,16 +20,16 @@
                 <a class="nav-link smooth-scroll" href="#about" data-aos="fade-up" data-aos-offset="10">Acerca de</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link smooth-scroll" href="#skill">Habilidades</a>
+                <a class="nav-link smooth-scroll" href="#skill" data-aos="fade-up" data-aos-offset="10" >Habilidades</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link smooth-scroll" href="#portfolio">cursos</a>
+                <a class="nav-link smooth-scroll" href="#portfolio" data-aos="fade-up" data-aos-offset="10" >cursos</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link smooth-scroll" href="#experience">Experiencia</a>
+                <a class="nav-link smooth-scroll" href="#experience" data-aos="fade-up" data-aos-offset="10" >Experiencia</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link smooth-scroll" href="#contact">Contacto</a>
+                <a class="nav-link smooth-scroll" href="#contact" data-aos="fade-up" data-aos-offset="10" >Contacto</a>
               </li>
             </ul>
           </div>
